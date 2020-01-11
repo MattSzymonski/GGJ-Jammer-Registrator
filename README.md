@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="media/logo.png" img width=100%>
+  <img src="media/GGJ_Jammer_Registrator.png" img width=100%>
 </p>
+
 ## Global Game Jam Jammer Registrator
 Automatic registration tool for jamming sites organizers
 
@@ -30,8 +31,8 @@ There are two modes of operation:
 - Don't worry it won't steal your login credentials :D. If you don't believe you can check the code of this program. It is open source software
 
 <p align="center">
-  <img src="media/screenshot1.png" img width=100%>
-  <img src="media/screenshot2.png" img width=100%>
-  <img src="media/screenshot3.png" img width=100%>
-  <img src="media/screenshot4.png" img width=100%>
+  <img src="media/Screenshot1.png" img width=100%>
+  <img src="media/Screenshot2.png" img width=100%>
+  <img src="media/Screenshot3.png" img width=100%>
+  <img src="media/Screenshot4.png" img width=100%>
 </p>
