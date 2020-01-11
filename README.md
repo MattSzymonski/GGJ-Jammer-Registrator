@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/GGJJammerRegistratorLogo.png" img width=25%>
+  <img src="media/GGJJammerRegistratorLogoShadow.png" img width=25%>
 </p>
 
 ## Global Game Jam Jammer Registrator
@@ -33,7 +33,7 @@ There are two modes of operation:
 <br>
 
 <p align="center">
-  <img src="media/Screenshot_1.png" img width=80%>
+  <img src="media/Screenshot_1.png" img width=100%>
   <br>
   <img src="media/Screenshot_2.png" img width=90%>
 </p>
