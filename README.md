@@ -13,7 +13,7 @@ If your site's registration is closed and you have to manually add all jammers w
 3. Put these two files in one directory
 4. Download Firefox browser
 5. Run GGJJammerRegistrator.exe, paste link to your game jam site, choose .csv file with list of jammers to register and hit start button
-6. Log in to game jam organizer account when askedm hit button once again
+6. Log in to game jam organizer account when asked and hit button once again
 7. Relax and watch how the program does the work for you
 
 ## How it works
