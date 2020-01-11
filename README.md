@@ -33,6 +33,4 @@ There are two modes of operation:
 <p align="center">
   <img src="media/Screenshot1.png" img width=50%>
   <img src="media/Screenshot2.png" img width=50%>
-  <img src="media/Screenshot3.png" img width=50%>
-  <img src="media/Screenshot4.png" img width=50%>
 </p>
