@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/GGJJammerRegistratorLogoShadow.png" img width=25%>
+  <img src="media/GGJJammerRegistratorLogoShadow.png" img width=30%>
 </p>
 
 ## Global Game Jam Jammer Registrator
