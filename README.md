@@ -33,7 +33,7 @@ There are two modes of operation:
 
 
 <p align="center">
-  <img src="media/Screenshot_1.png" img width=100%>
+  <img src="media/Screenshot_1.png" img width=80%>
   
   <img src="media/Screenshot_2.png" img width=100%>
 </p>
