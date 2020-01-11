@@ -12,11 +12,12 @@ If your site's registration is closed and you have to manually add all jammers w
 2. Download Geckodriver from https://github.com/mozilla/geckodriver/releases
 3. Put these two files in one directory
 4. Download Firefox browser
-5. Run GGJJammerRegistrator.exe, fill the fields with data, choose .csv file with list of jammers to register and hit start button
-6. Relax and watch how the program does the work for you
+5. Run GGJJammerRegistrator.exe, paste link to your game jam site, choose .csv file with list of jammers to register and hit start button
+6. Log in to game jam organizer account when askedm hit button once again
+7. Relax and watch how the program does the work for you
 
 ## How it works
-It is just the driver that opens browser, enters website, login into your account and register new jammers.
+It is just the bot that opens browser, enters website and registers new jammers.
 It does this by finding appropriate elements (links, buttons, fields) in html code of the website.
 All operations are printed in log box below, also it will automatically finish and print the results.
 
@@ -27,7 +28,7 @@ There are two modes of operation:
 ## Notes
 - .csv file should contain GGJ usernames of jammers, all in the first column and starting from the second row (so in first row can be some label) Exemplary file can be found in this repository
 - The best way to generate .csv file is via exporting it from Google Sheets (see image example below)
-- Don't worry it won't steal your login credentials :D. If you don't believe, you can check the source code of this program. It is open source software
+- If you are interested in how this is programmed you can check the source code of this program. It is provided in this repository. It is open source software
 
 <br>
 
