@@ -29,11 +29,10 @@ There are two modes of operation:
 - The best way to generate .csv file is via exporting it from Google Sheets (see image example below)
 - Don't worry it won't steal your login credentials :D. If you don't believe, you can check the source code of this program. It is open source software
 
-
-
+<br><br>
 
 <p align="center">
-  <img src="media/Screenshot_1.png" img width=80%>
-  
-  <img src="media/Screenshot_2.png" img width=100%>
+  <img src="media/Screenshot_1.png" img width=70%>
+  <br>
+  <img src="media/Screenshot_2.png" img width=90%>
 </p>
