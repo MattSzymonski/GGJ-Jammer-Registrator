@@ -30,7 +30,10 @@ There are two modes of operation:
 - Don't worry it won't steal your login credentials :D. If you don't believe, you can check the source code of this program. It is open source software
 
 
+
+
 <p align="center">
-  <img src="media/Screenshot_1.png" img width=50%>
-  <img src="media/Screenshot_2.png" img width=50%>
+  <img src="media/Screenshot_1.png" img width=100%>
+  
+  <img src="media/Screenshot_2.png" img width=100%>
 </p>
