@@ -8,7 +8,7 @@ Automatic registration tool for jamming sites organizers
 If your site's registration is closed and you have to manually add all jammers who signed up you can use this tool to save some time
 
 ## How to use it
-1. Download GGJJammerRegistrator.exe from this repository
+1. Download GGJJammerRegistrator.exe https://github.com/MattSzymonski/GGJJammerRegistrator/releases
 2. Download Geckodriver from https://github.com/mozilla/geckodriver/releases
 3. Put these two files in one directory
 4. Download Firefox browser
