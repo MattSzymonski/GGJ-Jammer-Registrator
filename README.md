@@ -5,7 +5,7 @@
 ## Global Game Jam Jammer Registrator
 Automatic registration tool for jamming sites organizers
 
-If registration for your site is closed and you have to manually add all jammers who signed up you can use this tool to save some time
+If your site's registration is closed and you have to manually add all jammers who signed up you can use this tool to save some time
 
 ## How to use it
 1. Download GGJJammerRegistrator.exe from this repository
